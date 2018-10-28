@@ -1,4 +1,5 @@
 .png
-images
 gan_olivetti.py
+venv
 env
+.pylinrc
